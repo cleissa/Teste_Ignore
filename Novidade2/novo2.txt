@@ -1,0 +1,23 @@
+H12 - Pesquisa de Nota Fiscal para lançamento do CTE 
+http://confluence:8090/pages/viewpage.action?pageId=26807237&src=contextnavpagetreemode
+
+H13 - Lançamento do CTE - Inclusão
+http://confluence:8090/pages/viewpage.action?pageId=26807239&src=contextnavpagetreemode
+
+H14 - Pesquisa de Fatura e CTE
+http://confluence:8090/display/CORE/H14+-+Pesquisa+de+Fatura+e+CTE?src=contextnavpagetreemode
+
+H15 - Lançamento de Dados da Fatura
+http://confluence:8090/pages/viewpage.action?pageId=26807241&src=contextnavpagetreemode
+
+H16 - Histórico de Arquivos CTE
+http://confluence:8090/pages/viewpage.action?pageId=26807244&src=contextnavpagetreemode
+
+H17 - Lançamento do CTE - Alteração
+http://confluence:8090/pages/viewpage.action?pageId=26807246&src=contextnavpagetreemode
+
+H18 - Relatório do CTE
+http://confluence:8090/pages/viewpage.action?pageId=26807248&src=contextnavpagetreemode
+
+
+
